@@ -1,0 +1,23 @@
+{
+    "asset" : {
+        "copyright" : "Mykhailo Bozhko",
+        "generator" : "Khronos glTF Blender I/O v1.0.5",
+        "version" : "2.0"
+    },
+    "scene" : 0,
+    "scenes" : [
+        {
+            "extras" : {
+                "glTF2ExportSettings" : {
+                    "export_cameras" : 1,
+                    "export_copyright" : "Mykhailo Bozhko",
+                    "export_extras" : 1,
+                    "export_format" : "GLTF_EMBEDDED",
+                    "export_lights" : 1,
+                    "export_selected" : 1
+                }
+            },
+            "name" : "Scene"
+        }
+    ]
+}
